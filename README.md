@@ -10,7 +10,7 @@ Landing page construida na aula de Bootstrap da OneBitCode.
 - Manipulção de elementos
 - Responsividade
 
-[Clique aqui pra acessar]()
+[Clique aqui pra acessar](https://carloscunha611.github.io/OBC_OnebitX/)
 
 ## 🛠 Tecnologias
 
