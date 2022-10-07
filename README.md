@@ -1,7 +1,5 @@
 # One Bit Code - OnebitX
 
-<img src='./.github/FAVICON-SPACEX.PNG' width=30>
-
 ![preview](./.github/preview.png)
 
 > Página construida usando apenas Bootstrap.
