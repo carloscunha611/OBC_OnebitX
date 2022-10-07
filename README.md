@@ -4,13 +4,13 @@
 
 > Página construida usando apenas Bootstrap.
 
-Landing page construida na aula de Bootstrap da OneBitCode.
+> Landing page construida na aula de Bootstrap da OneBitCode.
 
 - Formulário
 - Manipulção de elementos
 - Responsividade
 
-[Clique aqui pra acessar](https://carloscunha611.github.io/OBC_OnebitX/)
+<a href = "https://carloscunha611.github.io/OBC_OnebitX/" target = '_blank'> <img src = "./.github/FAVICON-SPACEX.png" width = 40 height = 40>Clique aqui para acessar </a>
 
 ## 🛠 Tecnologias
 
