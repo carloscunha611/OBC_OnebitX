@@ -1,4 +1,4 @@
-# One Bit Code - OnebitX
+# OneBitCode - OnebitX
 
 ![preview](./.github/preview.png)
 
