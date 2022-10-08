@@ -1,6 +1,6 @@
 # OneBitCode - OnebitX
 
-![preview](./.github/preview.png)
+![preview](./.github/newPreview.png)
 
 > Página construida usando apenas Bootstrap.
 
