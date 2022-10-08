@@ -10,12 +10,18 @@ body {
   background-size: cover;
 }
 body div {
-  color: white;
+  color: #ccc;
 }
 body .container1 {
   background-color: rgba(19, 18, 18, 0.9450980392);
   width: 28rem;
   height: auto;
+  border-radius: 0.25rem;
+  box-shadow: 0px 0px 10px #000;
+}
+body .container1 ::selection {
+  background-color: #ff0043;
+  color: #ccc;
 }
 body .container1 .topLogo {
   width: 180px;
@@ -29,7 +35,33 @@ body .container1 .btnSend {
 }
 body .container1 .btnSend:hover {
   background-color: #ff0043;
-  color: white;
+  color: #ccc;
+}
+body .container1 .form-control {
+  border-color: transparent;
+  background-color: transparent;
+  color: #ff0043;
+  caret-color: #ff0043;
+}
+body .container1 .form-control:focus {
+  box-shadow: 0 0 0 0.2rem transparent;
+  border: 1px solid #ff0043;
+}
+body .container1 .input-group-text {
+  border: 1px solid #ff0043;
+  background-color: transparent;
+  color: #ccc;
+}
+body .container1 .form-check-input {
+  background-color: transparent;
+  border: 1px solid #ff0043;
+}
+body .container1 .form-check-input:checked {
+  background-color: #ff0043;
+  border-color: #ff0043;
+}
+body .container1 .form-check-input:focus {
+  box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0);
 }
 body .fotter {
   margin-top: 30px;

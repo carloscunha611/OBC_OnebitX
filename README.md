@@ -10,7 +10,7 @@
 - Manipulção de elementos
 - Responsividade
 
-<a href = "https://carloscunha611.github.io/OBC_OnebitX/" target = '_blank'> <img src = "./.github/FAVICON-SPACEX.png" width = 40 height = 40>Clique aqui para acessar </a>
+<a href = "https://carloscunha611.github.io/OBC_OnebitX/" target = 'blank'> <img src = "./.github/FAVICON-SPACEX.png" width = 40 height = 40>Clique aqui para acessar </a>
 
 ## 🛠 Tecnologias
 
