@@ -65,6 +65,7 @@ body .container1 .btnSend:hover {
 }
 body .container1 .btn-outline-success:focus {
   box-shadow: none;
+  border-color: #ccc;
 }
 body .fotter {
   margin-top: 30px;
