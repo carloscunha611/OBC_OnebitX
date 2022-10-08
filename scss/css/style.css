@@ -29,14 +29,6 @@ body .container1 .topLogo {
 body .container1 .paragraph {
   margin: 8px 8px;
 }
-body .container1 .btnSend {
-  color: #ff0043;
-  border: 1px solid #ff0043;
-}
-body .container1 .btnSend:hover {
-  background-color: #ff0043;
-  color: #ccc;
-}
 body .container1 .form-control {
   border-color: transparent;
   background-color: transparent;
@@ -62,6 +54,17 @@ body .container1 .form-check-input:checked {
 }
 body .container1 .form-check-input:focus {
   box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0);
+}
+body .container1 .btnSend {
+  color: #ff0043;
+  border: 1px solid #ff0043;
+}
+body .container1 .btnSend:hover {
+  background-color: #ff0043;
+  color: #ccc;
+}
+body .container1 .btn-outline-success:focus {
+  box-shadow: none;
 }
 body .fotter {
   margin-top: 30px;

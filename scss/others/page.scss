@@ -31,15 +31,6 @@ body {
       margin: 8px 8px;
     }
 
-    .btnSend {
-      color: $button-color;
-      border: 1px solid $button-color;
-
-      &:hover {
-        background-color: $button-color;
-        color: #ccc;
-      }
-    }
     .form-control {
       border-color: transparent;
       background-color: transparent;
@@ -66,6 +57,19 @@ body {
       &:focus {
         box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0);
       }
+    }
+
+    .btnSend {
+      color: $button-color;
+      border: 1px solid $button-color;
+
+      &:hover {
+        background-color: $button-color;
+        color: #ccc;
+      }
+    }
+    .btn-outline-success:focus {
+      box-shadow: none;
     }
   }
 
