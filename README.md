@@ -1,4 +1,4 @@
-# OneBitCode - OnebitX
+# OneBitCode - Landing page
 
 ![preview](./.github/newPreview.png)
 
